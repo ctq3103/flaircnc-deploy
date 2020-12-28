@@ -1,7 +1,6 @@
 {
     "name": "flaircnc-deploy",
     "version": "0.1.0",
-    "private": true,
     "engines": {
         "node": "14.10.0"
     },
